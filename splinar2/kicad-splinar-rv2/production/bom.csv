@@ -1,0 +1,6 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D2, D20, D21, D22, D23, D24, D25, D26, D27, D28, D3, D4, D5, D6, D7, D8, D9",Diode_DO-35-FLIP,28,Diode,
+"S1, S10, S11, S12, S13, S14, S15, S16, S17, S18, S19, S2, S20, S21, S22, S23, S24, S25, S26, S27, S28, S3, S4, S5, S6, S7, S8, S9",Kailh-PG1350-1u-reversible-No-Clickhole,28,Keyswitch,
+SW1,SW_Tactile_SPST_Angled_MJTP1117,1,SW_Push,
+U1,TRRS_PJ-320A_FLIP,1,TRRS,
+U2,Nice_Nano_V2,1,Nice_Nano_V2,
