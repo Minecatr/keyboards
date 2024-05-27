@@ -16,4 +16,5 @@ If your MCU does not use UF2 it likely supports one of these other bootloaders
 - Navigate to settings and enable show design tab
 - Navigate to design and press load
 - Select the the via.json file of the desired board
+
 a preconfigured layout.json is in each complete board
