@@ -18,5 +18,6 @@ a split choc keyboard with 40 backlit keys 2 rotary encoders and a flippable boa
   - JLCPCB: https://cart.jlcpcb.com/quote
   - PCBWAY: https://www.pcbway.com/
   - DIGIKEY: https://www.digikey.com/en/resources/design-tools/pcb-builde
-3. Order PCB
+3. Upload Gerbers
+4. Order PCB
 
