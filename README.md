@@ -3,7 +3,7 @@
 - Setup QMK MSYS
 - Clone this project into `qmk_firmware/keyboards/minecatr` *this means this repositories content go in here
 - Copy the build folder of the desired keyboard into the QMK MSYS directory
-- Run `qmk compile -e CONVERT_TO=promicro_rp2040 -kb {PATH TO KEYBOARC} -km default` in QMK MSYS
+- Run `qmk compile -e CONVERT_TO=promicro_rp2040 -kb {PATH TO KEYBOARD} -km default` in QMK MSYS
 - Output should be in `qmk_firmware/.build`
 ## Using other bootloaders
 If your MCU does not use UF2 it likely supports one of these other bootloaders
