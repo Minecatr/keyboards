@@ -1,7 +1,7 @@
 # Splinar+
 
 ![SPLINAR+](https://github.com/Minecatr/keyboards/assets/82689952/dd9eb8d7-dbf1-4457-82e7-535c85afdfb5)
-a split choc keyboard with 40 backlit keys 2 rotary encoders and a flippable board
+a split choc keyboard with 54 backlit keys 2 rotary encoders and a flippable board
 ## Parts
 - RGB LEDs: SK6812 MINI-E 100pcs https://www.aliexpress.us/item/2255800289371100.html
 - EVQWGD001 Encoder: https://www.aliexpress.us/item/3256806010310254.html
