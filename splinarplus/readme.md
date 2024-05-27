@@ -12,3 +12,11 @@ a split choc keyboard with 40 backlit keys 2 rotary encoders and a flippable boa
 - TRRS: PJ-320A https://www.aliexpress.us/item/2251832843150354.html
 - TRRS Cable: Any 4 Ring TRRS Cable
   - If you have a 3 ring cut off the last pin on the TRRS socket
+## Ordering A PCB
+1. Download Gerbers Located `/kicad/production/Splinar.zip`
+2. Choose Preferred PCB service
+  - JLCPCB: https://cart.jlcpcb.com/quote
+  - PCBWAY: https://www.pcbway.com/
+  - DIGIKEY: https://www.digikey.com/en/resources/design-tools/pcb-builde
+3. Order PCB
+
