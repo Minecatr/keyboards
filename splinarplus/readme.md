@@ -2,6 +2,7 @@
 
 ![SPLINAR+](https://github.com/Minecatr/keyboards/assets/82689952/dd9eb8d7-dbf1-4457-82e7-535c85afdfb5)
 (keys are scratched in btw: mbk keycaps expensive)
+
 a split choc keyboard with 54 backlit keys 2 rotary encoders and a flippable board
 ## Parts
 - RGB LEDs: SK6812 MINI-E 100pcs https://www.aliexpress.us/item/2255800289371100.html
