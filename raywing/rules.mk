@@ -12,12 +12,12 @@ BACKLIGHT_ENABLE = no       # Enable keyboard backlight functionality
 RGBLIGHT_ENABLE = no        # Enable keyboard RGB underglow
 RGB_MATRIX_ENABLE = yes
 
-OLED_ENABLE = no
-
+OLED_ENABLE = yes
+LTO_ENABLE = yes
 # AUDIO_ENABLE = no           # Audio output
 
 SPLIT_KEYBOARD = yes
 ENCODER_ENABLE = yes
 ENCODER_MAP_ENABLE = yes
 
-DEFAULT_FOLDER = minecatr/splinarplus
+DEFAULT_FOLDER = minecatr/raywing

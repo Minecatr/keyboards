@@ -25,6 +25,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define MASTER_LEFT
 // #define MASTER_RIGHT
 // #define EE_HANDS
+#define DYNAMIC_KEYMAP_LAYER_COUNT 5
 
 #define ENCODERS_PAD_A { F4 }
 #define ENCODERS_PAD_B { F5 }
@@ -33,5 +34,5 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define ENCODERS_PAD_B_RIGHT { F5 }
 
 #define ENCODER_RESOLUTION 2
-
+#define MOUSEKEY_MOVE_DELTA 1
 // #define OLED_DISPLAY_128x32
