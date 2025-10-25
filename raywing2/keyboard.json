@@ -2,6 +2,9 @@
     "keyboard_name": "Raywing",
     "manufacturer": "Minecatr",
     "development_board": "promicro",
+    "processor": "atmega32u4",
+    "bootloader": "caterina",
+    "pin_compatible": "promicro",
     "diode_direction": "COL2ROW",
     "build": {
         "lto": true
