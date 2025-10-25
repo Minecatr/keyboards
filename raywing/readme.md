@@ -1,6 +1,6 @@
 # RAYWING
 
-![RAYWING](<img width="2304" height="1626" alt="image" src="https://github.com/user-attachments/assets/a4f5118f-f763-404e-a96c-899c327eb458" />)
+![RAYWING](<img src="https://github.com/user-attachments/assets/a4f5118f-f763-404e-a96c-899c327eb458" />)
 
 a split choc keyboard with 54 backlit keys 2 rotary encoders and a flippable board
 ## Parts
