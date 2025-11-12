@@ -1,6 +1,0 @@
-VIA_ENABLE = yes
-ENCODER_MAP_ENABLE = yes
-SPLIT_KEYBOARD = yes
-
-MCU = atmega32u4
-CONVERT_TO = rp2040_ce
